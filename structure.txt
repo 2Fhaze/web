@@ -1,0 +1,25 @@
+/ (ルートディレクトリ)
+│
+├── index.html (ホームページ)
+│
+├── about.html (会社情報)
+│
+├── services/ (サービス関連)
+│   ├── index.html (サービスの一覧ページ)
+│   ├── web-design.html (ウェブデザインサービス)
+│   ├── seo.html (SEOサービス)
+│
+├── blog/ (ブログ)
+│   ├── index.html (ブログの一覧ページ)
+│   ├── post1.html (ブログ記事1)
+│   ├── post2.html (ブログ記事2)
+│
+├── contact.html (お問い合わせ)
+│
+└── assets/ (静的ファイル)
+    ├── css/ (スタイルシート)
+    │   └── styles.css
+    ├── js/ (JavaScriptファイル)
+    │   └── scripts.js
+    └── images/ (画像)
+        └── logo.png
